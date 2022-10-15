@@ -1,2 +1,3 @@
-# printnamepython
-This is my first python code. Enter your name and see the result
+
+This is my repository for learning Python.
+Contains very simple to professional codes
